@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# 本地路径 / 个人信息
+local_settings.py
+
+# 临时文件
+*.tmp
+*.swp
+*~
+
+# 项目无关文件
+*.docx
+*.pdf
+*.pptx
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,7 +1,7 @@
 # Python Backend → AI Learning
 
 > 江西农业大学 · 软件工程 · 大二下
-> 方向：全栈 + AI / Agent 开发 · 目标：重庆大学 CS 考研
+> 方向：Python Backend → AI Agent Backend · 目标：重庆大学 CS 考研
 
 ## 学习路线
 
@@ -22,6 +22,6 @@ PROJECT_REVIEWS/  ← 项目复盘（展示拆解能力）
 
 ## 代表项目
 
-- [fastapi-notes-api](https://github.com/#) → 5 层架构的笔记 CRUD API（整理中）
+- [fastapi-notes-crud](https://github.com/wsc0796/fastapi-notes-crud) → 5 层架构的笔记 CRUD API
 - 苍穹外卖 → Spring Boot 员工模块（已复盘）
 - AI Backend → 进行中
